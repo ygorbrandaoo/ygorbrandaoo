@@ -25,42 +25,29 @@ I like taking a model all the way: gathering and labeling the data, training it,
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+<b>CombatIQ</b> <i>(private)</i><br>
+Computer vision models for sports analytics.<br><br>
+<code>Python</code> <code>PyTorch</code>
+</td>
+<td width="33%" valign="top">
 <b><a href="https://github.com/ygorbrandaoo/gesture-deck">gesture-deck</a></b><br>
 Slides you control with hand gestures through the webcam, with smoothing so it never misfires.<br><br>
 <code>TypeScript</code> <code>Teachable Machine</code>
 </td>
-<td width="50%" valign="top">
-<b><a href="https://github.com/ygorbrandaoo/money-trail">money-trail</a></b><br>
-Finds money-laundering cycles in a transaction graph, with every data structure written from scratch.<br><br>
-<code>Python</code> <code>Graphs</code> <code>DFS</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <b><a href="https://github.com/ygorbrandaoo/clinic-llama">clinic-llama</a></b><br>
 Fine-tuning Llama 3.1 to answer questions about clinical oncology.<br><br>
-<code>Python</code> <code>Llama 3.1</code> <code>Jupyter</code>
-</td>
-<td width="50%" valign="top">
-<b>Mosaico</b> <i>(private)</i><br>
-Language flashcards for Anki built from phrases, grammar and verbs, with audio and an image on every card.<br><br>
-<code>Python</code> <code>Anki</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<b>Fire Pals</b> <i>(private)</i><br>
-A chaotic co-op game for 1 to 6 players about small, not very competent firefighters.<br><br>
-<code>Unity</code> <code>C#</code> <code>Netcode</code>
-</td>
-<td width="50%" valign="top">
-<b>Tales of Kaique</b> <i>(private)</i><br>
-A 2D action RPG where every area is built around a classic computer science algorithm.<br><br>
-<code>Godot</code> <code>GDScript</code>
+<code>Python</code> <code>Llama 3.1</code>
 </td>
 </tr>
 </table>
+
+## Just for fun
+
+- **Fire Pals**: a chaotic co-op game for 1 to 6 players about small, not very competent firefighters. `Unity` `C#`
+- **Tales of Kaique**: a 2D action RPG where every area is built around a classic computer science algorithm. `Godot`
+- **Mosaico**: language flashcards for Anki, with audio and an image on every card. `Python`
 
 ## Tools
 
