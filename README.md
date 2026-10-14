@@ -2,7 +2,7 @@
 
 # Ygor Brandão
 
-**Computer vision intern at CombatIQ**<br>
+**Machine Learning Engineer Internt at CombatIQ**<br>
 Computer Science (UNIMA) · Business Administration (UFAL) · Maceió, Brazil
 
 </div>
